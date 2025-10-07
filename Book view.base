@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Brain/Books"
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Brain/Books"
+    order:
+      - title
+      - author
+    image: note.coverUrl
+    imageFit: contain
