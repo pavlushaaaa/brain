@@ -4,11 +4,13 @@ views:
     filters:
       and:
         - file.folder == "Brain/Books"
+        - file.hasProperty("author")
   - type: cards
     name: View
     filters:
       and:
         - file.folder == "Brain/Books"
+        - file.hasProperty("author")
     order:
       - title
       - author

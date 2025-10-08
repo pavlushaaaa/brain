@@ -16,6 +16,8 @@ previewLink: http://books.google.com.ua/books?id=GSBcQVd3MqYC&pg=PR28&dq=Black+S
 isbn13: 9780679604181
 isbn10: 0679604189
 ---
+
+
 ![[Brain/chornyj-lebid-pro-ne-jmovirne-u-realnomu-zhytti.epub]]
 
 #books #economics #philosophy #probability #risk #nassim-taleb
