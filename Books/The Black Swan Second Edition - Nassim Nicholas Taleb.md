@@ -18,7 +18,7 @@ isbn10: 0679604189
 ---
 
 
-![[Brain/files/books/chornyj-lebid-pro-ne-jmovirne-u-realnomu-zhytti.epub]]
-![[Brain/files/books/chornyj-lebid-pro-ne-jmovirne-u-realnomu-zhytti.mobi]]
+![[Brain/files/books/chornyj-lebid.epub]]
+![[Brain/files/books/chornyj-lebid.mobi]]
 
 tags: [[books]], [[economics]], [[philosophy]]
