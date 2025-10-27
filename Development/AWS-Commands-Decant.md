@@ -1,14 +1,7 @@
 ---
 tags:
-  - development
-  - aws
-  - devops
-  - decant
-  - commands
-  - ecs
-  - cloud
 ---
-
+Tags: [[development]]
 # AWS Commands - Decant Group
 
 Quick reference for AWS ECS commands used in Decant Group projects.

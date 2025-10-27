@@ -20,4 +20,4 @@ isbn10: 0679604189
 
 ![[Brain/chornyj-lebid-pro-ne-jmovirne-u-realnomu-zhytti.epub]]
 
-#books #economics #philosophy #probability #risk #nassim-taleb
+tags: [[books]], [[economics]], [[philosophy]]
